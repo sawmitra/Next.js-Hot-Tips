@@ -32,7 +32,7 @@ Now you'll see cache status and control info for each request.
 
 Here's what it looks like:
 
-![cache_demo](/cache_eybnaq.webp)
+![Chrome DevTools Network Tab Cache](/asset/cache/Chrome_DevTools_Network_Tab_Cache.webp)
 
 You'll see those as columns in the Network tab.
 
