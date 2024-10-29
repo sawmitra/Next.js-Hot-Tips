@@ -52,7 +52,7 @@ export default function Home() {
 
 In the app, you will see an image of the banner for this course. We are going to open up browser developer tools and learn about the sizes prop.
 
-[Open In New Tab](https://stackblitz.com/edit/stackblitz-starters-mdqrub?file=app%2Fpage.tsx)
+[Next.js Image Component with sizes prop](https://stackblitz.com/edit/stackblitz-starters-mdqrub?file=app%2Fpage.tsx)
 
 ### To see this in action:
 
