@@ -34,7 +34,7 @@ export default function Home() {
         alt="Example image"
         width={900}
         height={400}
-        sizes="(max-width: 768px) 100vw, (max-width: 900px) 50vw, 33vw"
+        **`sizes="(max-width: 768px) 100vw, (max-width: 900px) 50vw, 33vw"`**
       />
       <p className="mt-4">
         The image above uses the sizes prop to optimize loading based on
