@@ -11,7 +11,7 @@ There is an easier way to remove them all or select few using the ```removeConso
 
 Let's say we have 2 buttons that log to the console when clicked, one with a ```console log``` and one with ```console.error```.
 
-![Remove Console Logs](/asset/consoleLog/gif/RemoveConsoleLogs.mp4)
+![Remove Console Logs](/asset/consoleLog/gif/RemoveConsoleLogs.gif)
 
 In this demo, you can see the output of various console methods.
 
@@ -32,7 +32,7 @@ module.exports = nextConfig;
 
 Here is a quick demo of the above configuration:
 
-![Remove All Console Logs](/asset/consoleLog/gif/RemoveAllConsoleLogs.mp4)
+![Remove All Console Logs](/asset/consoleLog/gif/RemoveAllConsoleLogs.gif)
 
 If we want to remove everything except keep specific console methods like ```console.error```, we can do so by using the ```exclude``` option.
 
@@ -53,7 +53,7 @@ module.exports = nextConfig;
 
 Here is a quick demo of the above configuration:
 
-![Remove Console Logs Except Error](/asset/consoleLog/gif/RemoveConsoleLogsExceptError.mp4)
+![Remove Console Logs Except Error](/asset/consoleLog/gif/RemoveConsoleLogsExceptError.gif)
 
 
 ## Here is the Code Playground for you to try it out
